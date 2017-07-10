@@ -1,3 +1,5 @@
+#Introduction to Artificial Intelligence: "Connect K" Adversarial AI
+
 This project is a deterministic artificial intelligence using a minimax algorithm to play "Connect K": a variation of Connect 4 that 
 allows for different win conditions depending on the "K" value provided. The bulk of my artificial intelligence is in the file DKKAI.py 
 in the src directory. Also included is the "Connect K" backend in "ConnectKSource_python" that was provided by my instructor. 
